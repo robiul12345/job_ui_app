@@ -19,5 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## fast Page
 
-[Uploading Screenshot_4.png…]()
-[Uploading Screenshot_3.png…]()
+![Screenshot_2](https://user-images.githubusercontent.com/84795389/201409949-4985dcbc-4b73-4219-98c3-b4d3e4f082a4.png)
+## Secend Page
+![Screenshot_1](https://user-images.githubusercontent.com/84795389/201409998-457625b5-533b-4363-ad21-0ed5b7f11b0b.png)
